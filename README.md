@@ -13,10 +13,10 @@
 ## รูปภาพประกอบ
 
 ### บันทึกการยืมหนังสือ
-![สั่งอาหาร]([https://img5.pic.in.th/file/secure-sv1/imagec39ba8a36dcd2883.png](https://img5.pic.in.th/file/secure-sv1/image-5e206a951ffa57ea7.png))
+![สั่งอาหาร]([https://img5.pic.in.th/file/secure-sv1/image-5e206a951ffa57ea7.png])
 
 ### เพิ่มหนังสือ
-![เพิ่มหนังสือ]([https://img5.pic.in.th/file/secure-sv1/image-1304e5cbdf5eecd96.png](https://img2.pic.in.th/pic/image-4cc014068f60479e3.png))
+![เพิ่มหนังสือ]([https://img2.pic.in.th/pic/image-4cc014068f60479e3.png])
 
 ### ประวัติคำสั่งซื้อ
-![ประวัติคำสั่งซื้อ]([https://img5.pic.in.th/file/secure-sv1/image-27a2c10dc12eaf85c.png](https://img5.pic.in.th/file/secure-sv1/image-3a9a12946ebe325d3.png))
+![ประวัติคำสั่งซื้อ]([https://img5.pic.in.th/file/secure-sv1/image-3a9a12946ebe325d3.png])
